@@ -1,1 +1,6 @@
 # nexpose_csv
+
+Nexposeでの出力CSVを取り込むためのpythonプログラム
+reportフォルダに入れているCSVをマージする
+
+sh形式にしているのでそれを実行
